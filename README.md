@@ -1,74 +1,162 @@
-<h1 align="center">Hi 👋, I'm Sheraz</h1>
-<h3 align="center">Full Stack AI Engineer | Building Scalable Web Apps & AI-Powered Products</h3>
+# Greetings!
 
-<p align="center">
-  <a href="https://sherazdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sherazdev.vercel.app-blue?style=flat-square" /></a>
-  <a href="https://linkedin.com/in/muhammad-sheraz-858612385"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:mrsheraz325@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" /></a>
+<small><b>Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ</b></small>
+
+### Full Stack AI Engineer | Building Scalable Web Apps and AI-Powered Products
+
+<br>
+
+<img
+  align="right"
+  height="180"
+  style="margin-left: 20px;"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZmcjBsOWxtNTNhcDB6ZnA0a2ZjaDNwejBvdG55bTZxdzk2d2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ArzbGWLVNQzRv1aAL/giphy.webp"
+  alt="Coding animation"
+/>
+
+<p>
+I'm <b>Sheraz</b>, a Full Stack AI Engineer based in Sahiwal, Pakistan, focused on
+building scalable web applications and AI-powered products. I work across the
+full development lifecycle, from designing clean user experiences and backend
+architecture to integrating AI, optimizing performance, and deploying
+production-ready applications. I enjoy turning complex ideas into reliable,
+maintainable software with modern technologies.
 </p>
 
----
+<br clear="right">
 
-### 🚀 About Me
+## Engineering Stack
 
-- 🔭 Currently building **AI-powered SaaS products** with Next.js & TypeScript
-- 🌱 Exploring **LLM APIs, Vector Databases & AI Agents**
-- 💼 Available for **freelance projects** & collaborations
-- 📍 Based in **Sahiwal, Pakistan**
-- 📫 Reach me at **mrsheraz325@gmail.com**
+<table
+  align="center"
+  border="0"
+  cellpadding="20"
+  cellspacing="0"
+  frame="void"
+  rules="none"
+  style="border: 0 !important; border-collapse: collapse !important;"
+>
+<tr>
 
----
+<td
+  width="50%"
+  align="center"
+  valign="top"
+  style="border: 0 !important;"
+>
 
-### 🛠️ Tech Stack
+<h3>Tech Signatures</h3>
 
-**Frontend:**
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+<h4>Languages</h4>
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+<img
+  src="https://skillicons.dev/icons?i=js,ts,html,css"
+  alt="Languages"
+/>
 
-**AI & Tools:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+<h4>Development</h4>
 
----
+<img
+  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mongodb,postgres,supabase&perline=4"
+  alt="Development"
+/>
 
-### 📊 GitHub Stats
+<h4>Tools</h4>
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker,postman,npm&perline=4"
+  alt="Tools"
+/>
+
+</td>
+
+<td
+  width="50%"
+  align="center"
+  valign="top"
+  style="border: 0 !important;"
+>
+
+<h3>Familiar Fields</h3>
+
+<h4>AI Engineering</h4>
+
+<img
+  src="https://skillicons.dev/icons?i=openai,py"
+  alt="AI Engineering"
+/>
+
+<h4>Backend Engineering</h4>
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"
+  alt="Backend Engineering"
+/>
+
+<h4 style="margin-top: 24%;">Software Engineering</h4>
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel"
+  alt="Software Engineering"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsheraz33&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Most Used Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsheraz33&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
 
----
+## Find Me Around the Internet
 
-### 🌟 Featured Projects
+<table align="center" border="0" cellpadding="6" cellspacing="0">
+<tr>
 
-- **[SupportAI](https://support-ai-nine-kappa.vercel.app)** — Embeddable AI customer support chatbot (Next.js, MongoDB, Scalekit, Gemini API)
-- **[Snapcart](https://snapcart-sandy-nine.vercel.app)** — Real-time grocery delivery platform (Next.js, Socket.io, Leaflet Maps)
-- **[Social AI SaaS](https://social-ai-saas-red.vercel.app)** — AI-powered social media automation (React, Node.js, LLM APIs)
+<td style="border: none !important;">
+<a href="https://github.com/mrsheraz33" title="@mrsheraz33">
+<img src="https://api.iconify.design/skill-icons:github-dark.svg" width="28" height="28" alt="GitHub">
+</a>
+</td>
 
----
+<td style="border: none !important;">
+<a href="https://www.linkedin.com/in/muhammad-sheraz-858612385" title="LinkedIn">
+<img src="https://api.iconify.design/logos:linkedin-icon.svg" width="28" height="28" alt="LinkedIn">
+</a>
+</td>
 
-### 🤝 Let's Connect
+<td style="border: none !important;">
+<a href="https://twitter.com/yourhandle" title="X">
+<img src="https://api.iconify.design/skill-icons:twitter.svg" width="28" height="28" alt="X">
+</a>
+</td>
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-sheraz-858612385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mrsheraz325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://sherazbio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<td style="border: none !important;">
+<a href="https://www.facebook.com/mrsheraz33" title="Facebook">
+<img src="https://api.iconify.design/logos:facebook.svg" width="28" height="28" alt="Facebook">
+</a>
+</td>
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/mrsheraz33">mrsheraz33</a> — Building the future, one commit at a time.</i>
-</p>
+<td style="border: none !important;">
+<a href="https://sherazdev.vercel.app" title="Portfolio">
+<img src="https://api.iconify.design/skill-icons:vercel-dark.svg" width="28" height="28" alt="Portfolio">
+</a>
+</td>
+
+<td style="border: none !important;">
+<a href="mailto:mrsheraz325@gmail.com" title="Email">
+<img src="https://api.iconify.design/logos:google-gmail.svg" width="28" height="28" alt="Email">
+</a>
+</td>
+
+</tr>
+</table>
