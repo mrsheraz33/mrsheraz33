@@ -122,6 +122,30 @@ maintainable software with modern technologies.
   <img src="https://github-profile-trophy.vercel.app/?username=mrsheraz33&theme=darkhub&no-frame=true&no-bg=true&column=6&row=1&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsheraz33&layout=compact&theme=dark&hide_border=true&langs_count=6"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mrsheraz33&theme=github-compact&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 <br>
 
 ## Find Me Around the Internet
