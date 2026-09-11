@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Sheraz</h1>
 
 <p align="center">
@@ -159,4 +159,4 @@ A web application focused on social media workflows and AI-powered content autom
   <strong>Email:</strong>
   <a href="mailto:mrsheraz325@gmail.com">mrsheraz325@gmail.com</a>
 </p>
-```
+
