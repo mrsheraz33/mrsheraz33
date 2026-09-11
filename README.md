@@ -110,9 +110,15 @@ maintainable software with modern technologies.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsheraz33&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsheraz33&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Most Used Languages">
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrsheraz33&theme=darkhub&no-frame=true&no-bg=true&column=6&row=1&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <br>
