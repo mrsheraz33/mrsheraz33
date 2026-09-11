@@ -89,7 +89,7 @@ maintainable software with modern technologies.
 <h4>Backend Engineering</h4>
 
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"
+  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,django,fastapi"
   alt="Backend Engineering"
 />
 
