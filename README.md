@@ -105,7 +105,7 @@ maintainable software with modern technologies.
 <img
   src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel"
   alt="Software Engineering"
-/
+/>
 </td>
 
 </tr>
