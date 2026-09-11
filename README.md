@@ -107,12 +107,13 @@ maintainable software with modern technologies.
 
 <br>
 
-## GitHub Stats
+## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsheraz33&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Most Used Languages">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ## GitHub Trophies
