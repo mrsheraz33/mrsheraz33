@@ -1,168 +1,162 @@
-# Greetings!
+```md
+<h1 align="center">Hi, I'm Sheraz</h1>
 
-<small><b>Peace be upon you | Assalamualaikum | السَّلَامُ عَلَيْكُمْ</b></small>
+<p align="center">
+  <strong>Full-Stack Developer</strong> · Building modern web applications, backend systems, and AI-powered products
+</p>
 
-### Full Stack AI Engineer | Building Scalable Web Apps and AI-Powered Products
+<p align="center">
+  <a href="https://sherazdev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-sheraz-858612385">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mrsheraz325@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br>
+---
 
-<img
-  align="right"
-  height="180"
-  style="margin-left: 20px;"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZmcjBsOWxtNTNhcDB6ZnA0a2ZjaDNwejBvdG55bTZxdzk2d2F2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ArzbGWLVNQzRv1aAL/giphy.webp"
-  alt="Coding animation"
-/>
+## About
+
+I am a Full-Stack Developer focused on building reliable and scalable web applications.
+
+My work covers frontend development, backend architecture, REST APIs, database design, authentication, third-party integrations, and AI-powered features.
+
+I enjoy turning ideas and business requirements into clean, maintainable, production-ready applications.
+
+- Currently building full-stack web applications with Next.js, React, TypeScript, and Node.js
+- Working with MongoDB and PostgreSQL for application data and backend systems
+- Building secure authentication, APIs, dashboards, and business workflows
+- Exploring practical AI integrations and automation
+- Available for freelance projects and collaborations
+- Based in Pakistan
+
+---
+
+## Tech Stack
+
+### Frontend
 
 <p>
-I'm <b>Sheraz</b>, a Full Stack AI Engineer based in Sahiwal, Pakistan, focused on
-building scalable web applications and AI-powered products. I work across the
-full development lifecycle, from designing clean user experiences and backend
-architecture to integrating AI, optimizing performance, and deploying
-production-ready applications. I enjoy turning complex ideas into reliable,
-maintainable software with modern technologies.
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css,javascript" />
 </p>
 
-<br clear="right">
+### Backend & Databases
 
-## Engineering Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql" />
+</p>
 
-<table
-  align="center"
-  border="0"
-  cellpadding="20"
-  cellspacing="0"
-  frame="void"
-  rules="none"
-  style="border: 0 !important; border-collapse: collapse !important;"
->
-<tr>
+### Tools & Platforms
 
-<td
-  width="50%"
-  align="center"
-  valign="top"
-  style="border: 0 !important;"
->
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase,supabase" />
+</p>
 
-<h3>Tech Signatures</h3>
+### Authentication & Payments
 
-<h4>Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</p>
 
-<img
-  src="https://skillicons.dev/icons?i=js,ts,html,css"
-  alt="Languages"
-/>
+<p>
+  <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
 
-<h4>Development</h4>
+---
 
-<img
-  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mongodb,postgres,supabase&perline=4"
-  alt="Development"
-/>
+## What I Build
 
-<h4>Tools</h4>
+- Full-Stack Web Applications
+- REST APIs and Backend Systems
+- Authentication and Authorization
+- Admin Dashboards
+- E-Commerce Platforms
+- Database-Driven Applications
+- AI-Powered Features and Integrations
+- Third-Party API Integrations
+- Responsive Business Websites
+- Production Deployment
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker,postman,npm&perline=4"
-  alt="Tools"
-/>
+---
 
-</td>
+## Featured Projects
 
-<td
-  width="50%"
-  align="center"
-  valign="top"
-  style="border: 0 !important;"
->
+### SupportAI
 
-<h3>Familiar Fields</h3>
+Embeddable AI customer support platform designed to help businesses provide automated assistance through their websites.
 
-<h4>AI Engineering</h4>
+**Stack:** Next.js, MongoDB, Scalekit, Gemini API
 
-<img
-  src="https://skillicons.dev/icons?i=openai,py"
-  alt="AI Engineering"
-/>
+[View Project](https://support-ai-nine-kappa.vercel.app)
 
-<h4>Backend Engineering</h4>
+---
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"
-  alt="Backend Engineering"
-/>
+### Snapcart
 
-<h4 style="margin-top: 24%;">Software Engineering</h4>
+Real-time grocery delivery platform with live updates, location-based features, and a modern customer experience.
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel"
-  alt="Software Engineering"
-/>
+**Stack:** Next.js, Socket.io, Leaflet Maps
 
-</td>
+[View Project](https://snapcart-sandy-nine.vercel.app)
 
-</tr>
-</table>
+---
 
-<br>
+### Social AI SaaS
 
-## GitHub Stats
+A web application focused on social media workflows and AI-powered content automation.
+
+**Stack:** React, Node.js, LLM APIs
+
+[View Project](https://social-ai-saas-red.vercel.app)
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsheraz33&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Most Used Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Statistics"
+  />
 </p>
-
-## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrsheraz33&theme=darkhub&no-frame=true&no-bg=true&column=6&row=1&margin-w=10" alt="GitHub Trophies" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mrsheraz33&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
-<br>
+---
 
-## Find Me Around the Internet
+## Connect
 
-<table align="center" border="0" cellpadding="6" cellspacing="0">
-<tr>
+<p>
+  <a href="https://linkedin.com/in/muhammad-sheraz-858612385">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mrsheraz325@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sherazdev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<td style="border: none !important;">
-<a href="https://github.com/mrsheraz33" title="@mrsheraz33">
-<img src="https://api.iconify.design/skill-icons:github-dark.svg" width="28" height="28" alt="GitHub">
-</a>
-</td>
+---
 
-<td style="border: none !important;">
-<a href="https://www.linkedin.com/in/muhammad-sheraz-858612385" title="LinkedIn">
-<img src="https://api.iconify.design/logos:linkedin-icon.svg" width="28" height="28" alt="LinkedIn">
-</a>
-</td>
+<p>
+  <strong>Portfolio:</strong>
+  <a href="https://sherazdev.vercel.app">sherazdev.vercel.app</a>
+</p>
 
-<td style="border: none !important;">
-<a href="https://twitter.com/yourhandle" title="X">
-<img src="https://api.iconify.design/skill-icons:twitter.svg" width="28" height="28" alt="X">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="https://www.facebook.com/mrsheraz33" title="Facebook">
-<img src="https://api.iconify.design/logos:facebook.svg" width="28" height="28" alt="Facebook">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="https://sherazdev.vercel.app" title="Portfolio">
-<img src="https://api.iconify.design/skill-icons:vercel-dark.svg" width="28" height="28" alt="Portfolio">
-</a>
-</td>
-
-<td style="border: none !important;">
-<a href="mailto:mrsheraz325@gmail.com" title="Email">
-<img src="https://api.iconify.design/logos:google-gmail.svg" width="28" height="28" alt="Email">
-</a>
-</td>
-
-</tr>
-</table>
+<p>
+  <strong>Email:</strong>
+  <a href="mailto:mrsheraz325@gmail.com">mrsheraz325@gmail.com</a>
+</p>
+```
