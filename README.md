@@ -88,17 +88,31 @@ maintainable software with modern technologies.
 
 <h4>Backend Engineering</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,django,fastapi"
-  alt="Backend Engineering"
-/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"
+    alt="Backend Engineering"
+  />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=postgres,django,py&perline=3"
+    alt="Backend Engineering"
+  />
+</p>
 
 <h4 style="margin-top: 24%;">Software Engineering</h4>
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel"
-  alt="Software Engineering"
-/>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker&perline=3"
+    alt="Software Engineering"
+  />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=vscode,vercel,postman&perline=3"
+    alt="Software Engineering"
+  />
+</p>
 
 </td>
 
