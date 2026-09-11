@@ -107,7 +107,7 @@ maintainable software with modern technologies.
 
 <br>
 
-## GitHub Activity <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrsheraz33&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsheraz33&theme=dark&hide_border=true" alt="GitHub Contribution Streak" /> </p>
+## GitHub Activity  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsheraz33&theme=dark&hide_border=true" alt="GitHub Contribution Streak" /> </p>
 
 <br>
 
