@@ -117,6 +117,25 @@ maintainable software with modern technologies.
 
 <br>
 
+## Featured Project: ClickyTools
+
+<p align="center">
+  <a href="https://clickytools.org" target="_blank">
+    <img src="https://img.shields.io/badge/ClickyTools-Free_Online_Tools-0A6CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ClickyTools" />
+  </a>
+  <a href="https://clickytools.org" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Website-clickytools.org-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
+  </a>
+</p>
+
+**ClickyTools** is a comprehensive suite of over 100 free, browser-based utilities designed for everyday file and data management. The platform enables users to convert images to PDF, merge documents, remove image backgrounds using AI, generate business assets, and perform complex calculations without uploading any data to a server.
+
+**Key Highlights:**
+- **Client-Side Architecture:** All processing occurs locally within the user's browser, ensuring complete data privacy and zero server uploads.
+- **Zero Friction:** No account creation, authentication, or subscription required. The tools are entirely free with no usage limits.
+
+**[Explore ClickyTools](https://clickytools.org)**
+
 ## Find Me Around the Internet
 
 <table align="center" border="0" cellpadding="6" cellspacing="0">
